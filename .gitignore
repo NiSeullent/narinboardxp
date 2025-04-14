@@ -1,0 +1,17 @@
+/node_modules
+/public/storage
+/public/hot
+/storage/*.key
+/.idea
+Homestead.json
+Homestead.yaml
+.env
+.env.example
+sftp-config.json
+/storage/okname/key/*.key
+/public/Markup
+/public/themes/laon
+/resources/views/layout/laon
+/public/storage/app/public/images
+/vendor
+*.tar.gz
